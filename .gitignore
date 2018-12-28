@@ -1,0 +1,8 @@
+make
+make.exe
+Makefile
+build
+.cproject
+.gdbinit
+.openocd_cfg
+.project
